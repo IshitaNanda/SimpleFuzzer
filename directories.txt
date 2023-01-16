@@ -1,0 +1,4 @@
+https://google.com/mail
+https://google.com/store
+https://google.com/sheets
+https://google.com/forms
